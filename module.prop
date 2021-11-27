@@ -1,0 +1,6 @@
+id=miui-simplify
+name=MIUI Simplify
+version=v1
+versionCode=20210901
+author=Zhezhe Peng
+description=Disable system app and mdnsd service in MIUI.
