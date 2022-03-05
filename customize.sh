@@ -1,19 +1,15 @@
 REPLACE="
-/system/app/AnalyticsCore
 /system/app/BasicDreams
 /system/app/MiuiBugReport
 /system/app/MiuiDaemon
-/system/app/MSA
 /system/app/SimAppDialog
 /system/app/Traceur
 /system/app/WMService
 /system/priv-app/MiRcs
 /system/priv-app/MiService
-/system/priv-app/MiuiVideo
 /system/priv-app/NewHome
 /system/product/app/PhotoTable
 /system/product/app/talkback
-/system/product/priv-app/talkback
 "
 # 可精简App
 # /system/app/AnalyticsCore 广告组件
